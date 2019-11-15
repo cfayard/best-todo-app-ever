@@ -1,4 +1,4 @@
-This is Casey and i'm working with Ava
+This is Casey and i'm working with Eva
 
 # Pairing exercise!
 
