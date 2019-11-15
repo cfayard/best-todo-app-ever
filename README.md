@@ -1,3 +1,5 @@
+This is Casey and i'm working with Ava
+
 # Pairing exercise!
 
 Upgrade this code to use dictionaries for each todo.
